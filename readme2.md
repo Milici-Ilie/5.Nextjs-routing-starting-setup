@@ -19,7 +19,7 @@
 
 # 2. REACT REFRESHER
 
-> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > (((REACT-CRASH-COURSE project))) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > (((REACT-Crash-Course.-Next-JS ))) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
     ## ✅I. -How to create a project with REACT-APP or VITE.
 
@@ -520,10 +520,10 @@
 > ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗ (((USING PAGES Router))) ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
 > ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗ (((USING PAGES Router))) ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
 > ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗ (((USING PAGES Router))) ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
-> ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗ (((USING PAGES Router))) ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
+> ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗ (((USING PAGES Router))) ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
 > ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗ (((USING PAGES Router))) ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
 
-# 5. Section 4: Pages & File-based Routing
+# 5. Section 4: Pages & File-based Routing ==== on GIT-HUB search "Pages-Router"
 
     ## ✅I. -Adding Pages/Structure the Project
 
@@ -593,47 +593,61 @@ return (
 
 [PAGES/404.js]
 
-    ## ✅VII. subtitlu
+# 6. Nextjs-routing-starting-setup
 
-    ## ✅VIII. subtitlu
+> Files and folders stored outside of public/ are NOT made accessible by NextJS - visitors can NOT load files from there
+> NOTE === in the 'PAGES' folder we must add only Foldes and Files that we want to become routes/paths, because those files/folders will be connected by default by NextJS as pages and create routes between them, so in the "PAGES" Folder we must create only pages files/folders === so we dont create regular components in the "PAGES" folder, or a list component, etc ...
+> For normal functions/components/lists/etc... we need to create a "COMPONENTS" Folder and in there we will create files for our working files
 
-    ## ✅IX. subtitlu
+    ## ✅I. -How to add React components and Connect Components
+             -How to create a Format Date/humanReadableDate
 
-    ## ✅X. subtitlu
+[Lesson.157]/[COMPONENTS/EVENTS/event-item.js]/[COMPONENTS/EVENTS/event-list.js]
 
-    ## ✅XI. subtitlu
+                                                                               ❗❗❗💾💾[CONNECT REACT COMPONENTS]💾💾❗❗❗
 
-    ## ✅XII. subtitlu
+    ## ✅II. -Adding Buttons and Icons
 
-    ## ✅XIII. subtitlu
+> Now this will not be a Button, but a link, but it will look like a Button
 
-    ## ✅XIV. subtitlu
+[COMPONENTS/UI/button.js]/[COMPONENTS/EVENTS/event-item.js]
 
-    ## ✅XV. subtitlu
+                                                                                    ❗❗❗🍧🍧[BUTTONS & ICONS]🍧🍧❗❗❗
 
-    ## ✅XVI. subtitlu
+    ## ✅III. -How to add Dynamic Route to pages/"Event Detail" page
 
-    ## ✅XVII. subtitlu
+[PAGES/EVENTS/eventId.js]/[]
 
-    ## ✅XVIII. subtitlu
+                                                                                    ❗❗❗🧨🧨[DYNAMIC ROUTE]🧨🧨❗❗❗
 
-    ## ✅XIX. subtitlu
+    ## ✅IV. -How to create a General Navigation BAR/ Layout component
+              -How to create Button for going page to the previous page
 
-    ## ✅XX. subtitlu
+> Here comes in to action the "\_app.js" file, here NextJS will set the style and all the changes to all the pages, check the file for more info's
+> This will take effect because here, in the "PAGES" we have only pages, so the "\_app.js" will apply the effects to all the pages
 
-# 6. Titlu
+[COMPONENTS/LAYOUT/layout.js]/[COMPONENTS/LAYOUT/main-header.js]/[PAGES/_app.js]
 
-    ## ✅I. subtitlu
+                                                                                    ❗❗❗🧭🧭[NAVIGATION BAR]🧭🧭❗❗❗
 
-    ## ✅II. subtitlu
+    ## ✅V. -How to filter, creating a Filter Form for Filtering Events
+             -How to create a Button that will render either a Link either a normal Button, depending where is called - Reusable Button
+             -How to create a Programmatically Navigation
 
-    ## ✅III. subtitlu
+> This "Programmatically Navigation" is a bit Hard, there for check the Lesson.165 from M.Scwarzmweller NextJS
 
-    ## ✅IV. subtitlu
+[COMPONENTS/EVENTS/events-search.js]/[COMPONENTS/UI/button.js]/[PAGES/EVENTS/index.js]/[]
 
-    ## ✅V. subtitlu
+                                                                                    ❗❗❗📂📂[FILTERING EVENTS]📂📂❗❗❗
 
-    ## ✅VI. subtitlu
+    ## ✅VI. -How to extract Data from the Filter Events and display the correct pages depending on those values
+              -Extracting Data on the Catch-All Page
+
+> We need to extract from our URL the "year" and the "month" and display the event/s that trigger those demands
+
+[PAGES/EVENTS/...slug.js]/[]
+
+                                                                                    ❗❗❗💱💱[EXTRACTING DATA]💱💱❗❗❗
 
     ## ✅VII. subtitlu
 
